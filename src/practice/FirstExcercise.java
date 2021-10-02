@@ -5,5 +5,10 @@ public class FirstExcercise {
 		
 		System.out.println("First Excercise");
 	}
+	
+	public void addNum(int a, int b, int c) {
+		
+		System.out.println(a+b+c);
+	}
 
 }
